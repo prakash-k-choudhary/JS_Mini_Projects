@@ -1,0 +1,19 @@
+body {
+  background-color: gray;
+  color: white;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bottom input {
+  font-size: 28px;
+  background-color: red;
+  padding: 8px;
+  border-radius: 12px;
+  color: white;
+}
